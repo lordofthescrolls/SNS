@@ -1,6 +1,6 @@
-# Scrolly Domains frontend
+# Scrolls Domains frontend
 
-Frontend for .scrolly domain service powered by the [Punk Domains protocol](https://punk.domains).
+Frontend for .scrolls domain service powered by the [Punk Domains protocol](https://punk.domains).
 
 ## Quickstart
 
