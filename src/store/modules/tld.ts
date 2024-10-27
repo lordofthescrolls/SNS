@@ -10,21 +10,21 @@ export default {
   
   state: () => ({ 
     discountPercentage: 0,
-    tldName: ".scrolly",
-    tldAddress: "0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876", // TODO
+    tldName: ".scrolls",
+    tldAddress: "0xchangeme", // TODO
     tldContract: null,
     tldChainId: 534352,
     tldChainName: "Scroll",
-    minterAddress: "0xE806C55bd917Ccf93d66CE814e242878fc230CA2", // TODO
+    minterAddress: "0xchangeme", // TODO
     minterContract: null,
     minterLoadingData: false,
     minterPaused: true,
     minterTldPrice1: 1000000000,
     minterTldPrice2: 100000000,
-    minterTldPrice3: 30000000,
-    minterTldPrice4: 800000,
-    minterTldPrice5: 200000,
-    minterTldPrice6: 50000,
+    minterTldPrice3: 50000000,
+    minterTldPrice4: 30000000,
+    minterTldPrice5: 2000000,
+    minterTldPrice6: 500000,
     referralFee: 1000
   }),
 
