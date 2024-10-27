@@ -11,16 +11,14 @@
     <span v-if="isUserMinterAdmin || isUserRoyaltyFeeUpdater || isUserTldAdmin"> | </span>
 
     Powered by <a target="_blank" href="https://punk.domains">Punk Domains</a> 
-    for <a target="_blank" href="https://scrollyfi.xyz">Scrolly The Map</a>
+    for <a target="_blank" href="https://lordofthescrolls.com/">Lord of the Scrolls</a>
   </div>
 
   <div class="container-fluid text-center">
 
-    <a class="icons" target="_blank" href="https://twitter.com/scrollyxyz"><i class="bi bi-twitter"></i></a>
+    <a class="icons" target="_blank" href="https://x.com/scrollsonscroll"><i class="bi bi-twitter"></i></a>
 
-    <a class="icons" target="_blank" href="https://github.com/ScrollyXYZ/SNS"><i class="bi bi-github"></i></a>
-
-    <a class="icons" target="_blank" href="https://t.me/ScrollyTheMap"><i class="bi bi-telegram"></i></a>
+    <a class="icons" target="_blank" href="https://t.me/lordofthescrolls"><i class="bi bi-telegram"></i></a>
     
   </div>
 </template>
@@ -55,7 +53,7 @@ a:hover {
 }
 
 .container-fluid {
-  /*background-color: #24263A;*/
+  /*background-color: #0a1159;*/
   background-color: transparent;
   padding: 20px 0px;
   border-radius: 10px;
