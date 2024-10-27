@@ -5,7 +5,7 @@
   <div class="row mt-3">
     <div class="col-md-8 offset-md-2">
       <p>
-        Scrolly Domains is a Web3 Social username service where anybody can mint their very own web3 domain username with a .scrolly extension.
+        Scrolls Domains is a Web3 Social username service where anybody can mint their very own web3 domain username with a .scrolls extension.
       </p>
 
     </div>
