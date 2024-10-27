@@ -19,11 +19,11 @@ export default {
     selectedNameData: null,
     selectedNameImageSvg: null,
     selectedNameKey: null,
-    tokenAddress: "0xb65aD8d81d1E4Cb2975352338805AF6e39BA8Be8",
+    tokenAddress: "0x0f9d8a520600cebde0539d9e136201057e3db984",
     tokenContract: null,
     tokenAllowance: 0, // user's allowance for wrapper contract
     tokenBalance: 0, // user's balance
-    tokenName: "SCROLLY",
+    tokenName: "SCROLLS",
     tokenDecimals: 18,
     userAddress: null,
     userAllDomainNames: [], // all domain names of current user (default + manually added)
