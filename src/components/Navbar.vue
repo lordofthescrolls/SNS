@@ -47,7 +47,7 @@
               class="btn btn-primary me-3 navbar-menu-btn"
               href="https://lordofthescrolls.com/"
               target="_blank"
-              >Scrolly Hub</a
+              >Main Site</a
             >
             <div v-if="isActivated" class="btn-group me-3 navbar-menu-btn">
               <button
