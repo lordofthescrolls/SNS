@@ -8,7 +8,7 @@
           class="d-inline-block align-text-bottom"
           height="40"
         />
-        Scrolly Name Service
+        Lord of the Scrolls Name Service
       </router-link>
 
       <button
@@ -39,13 +39,13 @@
 
             <a
               class="btn btn-primary me-3 navbar-menu-btn"
-              href="https://scrollyfi.xyz"
+              href="https://lordofthescrolls.com/"
               target="_blank"
               >Main site</a
             >
             <a
               class="btn btn-primary me-3 navbar-menu-btn"
-              href="https://scrollyfi.xyz"
+              href="https://lordofthescrolls.com/"
               target="_blank"
               >Scrolly Hub</a
             >
@@ -110,7 +110,7 @@
 
             <a
               class="btn btn-primary me-3 navbar-menu-btn"
-              href="https://element.market/collections/scrolly-f07594?search%5Btoggles%5D[0]=BUY_NOW"
+              href="https://element.market/collections/scrolls"
               target="_blank"
               >Marketplace</a
             >
