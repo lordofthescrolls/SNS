@@ -5,24 +5,10 @@
     <div class="text-align-header mt-4 mb-2">
       <h1>Mint your {{ getTldName }} web3 name!</h1>
       <p>
-        A digital identity for Scrolly The Map web3 community. <br />
-        And start chatting with other community members on
-        <a href="https://scrollyfi.xyz" target="_blank">Scrolly Hub</a>!
+        A digital identity for Lord of the Scrolls web3 community. <br />
+        And start chatting with other community members
+        <a href="https://t.me/lordofthescrolls" target="_blank">Our Telegram</a>!
       </p>
-    </div>
-
-    <div class="highlight-box mt-5 mb-5 p-3">
-      <h2>Participate in Quests and Evolve Your Badge!</h2>
-      <p>
-        Visit the main site to take part in quests and upgrade your badge. Don't
-        miss out on the fun and rewards!
-      </p>
-      <a
-        href="https://scrollyfi.xyz/dashboard"
-        target="_blank"
-        class="btn btn-warning btn-lg"
-        >Go to Quest Dashboard</a
-      >
     </div>
 
     <div class="d-flex justify-content-center domain-input-container mb-3 mt-5">
